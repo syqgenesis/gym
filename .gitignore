@@ -21,3 +21,9 @@ DerivedData/
 
 # Secrets (optional - uncomment if Config.xcconfig has real keys)
 # Config/Config.xcconfig
+
+node_modules/
+.next/
+.env
+.env.*
+.DS_Store
